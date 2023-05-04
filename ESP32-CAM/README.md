@@ -2,7 +2,7 @@
 
 Welcome to the ESP32-CAM Setup Guide. This guide will help you to set up your ESP32-CAM board with the Arduino Integrated Development Environment.
 
-## Step 1: install Arduino IDE:
+## Step 1: Install Arduino IDE:
 
 To begin, you need to download and install the latest version of the Arduino IDE from the official website at
 `https://www.arduino.cc/en/software`. <br>
