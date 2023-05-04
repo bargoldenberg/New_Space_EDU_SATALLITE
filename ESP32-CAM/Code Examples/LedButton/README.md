@@ -1,5 +1,9 @@
 # Led Button
-This program....
+This code is designed to control an LED using a button.
+
+In the setup() function, the code initializes the serial communication and sets the LED pin as an output and the button pin as an input with an internal pull-up resistor.
+
+In the main loop() function, the code reads the state of the button. If the button is pressed, the code checks the state of the LED. If the LED is currently on, it will turn it off, and if it's off, it will turn it on. The state of the LED is tracked using the variable `lightOn`.
 
 # Changes that Required:
 
