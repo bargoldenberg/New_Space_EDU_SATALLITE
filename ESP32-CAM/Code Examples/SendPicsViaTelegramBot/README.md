@@ -16,6 +16,10 @@ The `/photo` command takes a new photo and sends it to the user, while the `/fla
 Change ssid to your WIFI Network
 Change pass to your network password
 
+`String BOTtoken = "XXXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";` // your Bot Token (Get from Botfather)
+
+`String CHAT_ID = "XXXXXXXXXX";` // Use @myidbot to find out the chat ID of an individual or a group
+
 # How To RUN:
 
 #### Click on this button for compiling the code:  <br>
