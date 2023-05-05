@@ -30,18 +30,11 @@
 
 #include "camera_pins.h"
 
-// Define the LED pin
-#define LED_PIN 4
-
-int lightOn = 0;
-
-const int button = 0;         //gpio to use to trigger delay
-
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "Hen";
-const char* password = "0587500150";
+const char* ssid = "WIFI_NETWORK";
+const char* password = "WIFI_PASS";
 
 void startCameraServer();
 
@@ -49,11 +42,6 @@ void setup() {
   Serial.begin(115200);
   Serial.setDebugOutput(true);
   Serial.println();
-
-   pinMode(button, INPUT_PULLUP);                    //init control pin
-
-  // Initialize the LED pin as an output
-  pinMode(LED_PIN, OUTPUT);
 
   camera_config_t config;
   config.ledc_channel = LEDC_CHANNEL_0;
@@ -154,23 +142,7 @@ void setup() {
 }
 
 void loop() {
-  // Serial.println("running main loop");
-  // int pressed = digitalRead(button);
   
-  // if (!pressed) {
-  //   Serial.println("button pressed");
-  //   if (lightOn) {
-  //     // Turn the LED off
-  //     digitalWrite(LED_PIN, LOW);
-  //     lightOn = 0;  
-  //   } else {
-  //     // Turn the LED on
-  //     digitalWrite(LED_PIN, HIGH);
-  //     lightOn = 1;
-  //   }
-  //   delay(500);
-  // }
-
   delay(10000);
 
 }
