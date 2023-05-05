@@ -1,9 +1,7 @@
 # Camera Web Server
-This code is designed to control an LED using a button.
+This is a sample code for an ESP32 microcontroller board with a camera module connected to it.
+This code demonstrates how to use the ESP32 camera module to capture an image and stream it over WiFi, which could be useful for a variety of applications such as surveillance, object recognition, and more.
 
-In the setup() function, the code initializes the serial communication and sets the LED pin as an output and the button pin as an input with an internal pull-up resistor.
-
-In the main loop() function, the code reads the state of the button. If the button is pressed, the code checks the state of the LED. If the LED is currently on, it will turn it off, and if it's off, it will turn it on. The state of the LED is tracked using the variable `lightOn`.
 
 # Changes that Required:
 
