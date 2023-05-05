@@ -37,7 +37,7 @@ Enter the ip that you see on the Serial Monitor in your browser: `http://10.0.0.
 
 ![image](https://user-images.githubusercontent.com/76903853/236431974-2ee14caa-7fb5-44fe-8f21-c6c3c9ff7eaa.png)
 
-#### You can Play with all the features, such as Face Recognition, The image size, etc...
+#### You can Play with all the features, such as Face Recognition, The image Resolution, etc...
 ### Enjoy!
 
 
