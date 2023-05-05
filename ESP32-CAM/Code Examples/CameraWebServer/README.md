@@ -1,4 +1,4 @@
-# Led Button
+# Camera Web Server
 This code is designed to control an LED using a button.
 
 In the setup() function, the code initializes the serial communication and sets the LED pin as an output and the button pin as an input with an internal pull-up resistor.
@@ -7,8 +7,9 @@ In the main loop() function, the code reads the state of the button. If the butt
 
 # Changes that Required:
 
-`code` <br>
-`code`
+`const char* ssid = "WIFI_NETWORK";` <br>
+`const char* password = "WIFI_PASS";` <br>
+
 
 Change ssid to your WIFI Network
 Change pass to your network password
