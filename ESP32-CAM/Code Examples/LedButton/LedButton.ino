@@ -16,12 +16,14 @@ void setup() {
 
   // Initialize the LED pin as an output
   pinMode(LED_PIN, OUTPUT);
+
+  Serial.println("The button is ready to use");
+
 }
 
 void loop() {
-  Serial.println("running main loop");
+
   int pressed = digitalRead(button);
-  
   if (!pressed) {
     Serial.println("button pressed");
     if (lightOn) {
@@ -35,5 +37,4 @@ void loop() {
     }
     delay(500);
   }
-
 }
