@@ -1,7 +1,11 @@
-# Camera Web Server
-This is a sample code for an ESP32 microcontroller board with a camera module connected to it.
-This code demonstrates how to use the ESP32 camera module to capture an image and stream it over WiFi, which could be useful for a variety of applications such as surveillance, object recognition, and more.
+# Send Pictures Via Telegram Bot
+This code is for an ESP32-CAM that connects to a Telegram bot and takes pictures, sends them to the bot and interacts with it through commands. It uses the UniversalTelegramBot library, the ESP32-CAM library, and the ArduinoJson library.
 
+The code defines the ssid and password of the Wi-Fi network, as well as the Telegram BOTtoken and CHAT_ID of the chat the bot will use.
+
+It also initializes the camera with its pins, frequency, and quality. The function handleNewMessages receives any new messages from the Telegram bot, checks if the user is authorized, and then performs the corresponding action according to the received command. 
+
+The `/photo` command takes a new photo and sends it to the user, while the `/flash` command toggles the state of the flash LED.
 
 # Changes that Required:
 
