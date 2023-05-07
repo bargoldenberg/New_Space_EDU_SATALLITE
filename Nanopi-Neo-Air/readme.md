@@ -33,8 +33,8 @@ Now download <a href="https://www.balena.io/etcher">Etcher</a>
 * Select the OS image
 * Select the targeted SD card 
 * Click Flash
-* wait for Etcher to finish and you're good to go
-* insert the SD card to the on board SD card slot
+* Wait for Etcher to finish and you're good to go
+* Insert the SD card to the on board SD card slot
 
 
 ![etcher](https://user-images.githubusercontent.com/10331972/236702409-fdc33d07-e22e-4641-a3c7-b84ce0049f1d.png)
