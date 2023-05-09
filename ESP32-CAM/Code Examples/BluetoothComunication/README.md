@@ -1,4 +1,5 @@
-# Led Button
+# Bluetooth Comunication
+
 This code is designed to control an LED using a button.
 
 In the setup() function, the code initializes the serial communication and sets the LED pin as an output and the button pin as an input with an internal pull-up resistor.
