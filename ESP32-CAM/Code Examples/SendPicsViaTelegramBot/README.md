@@ -49,10 +49,14 @@ copy the Code that you got, and paste below.
 ![image](https://user-images.githubusercontent.com/76903853/236427674-db04422e-c951-467c-84fc-641df776c93b.png)
 
 #### Now, You should see this command on the Serial Monitor:
-![image](https://user-images.githubusercontent.com/76903853/236430751-109a958c-413b-42f9-9ca7-834c57c4031c.png)
+![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/76903853/71428463-d1d9-479e-bd6f-a0321c59371c)
 
 #### Make sure your device connected to the same Network with the Board.
-Enter the ip that you see on the Serial Monitor in your browser: `http://10.0.0.16/`
+Go to your Telegram account and open a conversation with your bot. Send the following commands and see the bot responding:
+
+`/start` shows the welcome message with the valid commands.
+`/flash` inverts the state of the LED flash.
+`/photo` takes a new photo and sends it to your Telegram account.
 
 #### Press on Strat Stream
 ![image](https://user-images.githubusercontent.com/76903853/236431559-48110ba3-eb25-4520-9916-36ab9d624e00.png)
