@@ -28,7 +28,7 @@ Now, copy the TOKEN from the message above.
 
 #### Get Chat ID
 
-Open Telegram and search for `myidbot`
+Open Telegram and search for `IDBot`
 Type `/getid` and send.
 copy the Code that you got, and paste below.
 
