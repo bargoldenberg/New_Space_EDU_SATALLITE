@@ -54,14 +54,11 @@ copy the Code that you got, and paste below.
 #### Make sure your device connected to the same Network with the Board.
 Go to your Telegram account and open a conversation with your bot. Send the following commands and see the bot responding:
 
-`/start` shows the welcome message with the valid commands.
-`/flash` inverts the state of the LED flash.
-`/photo` takes a new photo and sends it to your Telegram account.
+`/start` shows the welcome message with the valid commands. <br>
+`/flash` inverts the state of the LED flash. <br>
+`/photo` takes a new photo and sends it to your Telegram account. <br>
 
 #### Press on Strat Stream
-![image](https://user-images.githubusercontent.com/76903853/236431559-48110ba3-eb25-4520-9916-36ab9d624e00.png)
-
-![image](https://user-images.githubusercontent.com/76903853/236431974-2ee14caa-7fb5-44fe-8f21-c6c3c9ff7eaa.png)
 
 #### You can Play with all the features, such as Face Recognition, The image Resolution, etc...
 ### Enjoy!
