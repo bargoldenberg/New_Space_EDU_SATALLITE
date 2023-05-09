@@ -58,7 +58,6 @@ Go to your Telegram account and open a conversation with your bot. Send the foll
 `/flash` inverts the state of the LED flash. <br>
 `/photo` takes a new photo and sends it to your Telegram account. <br>
 
-#### Press on Strat Stream
+![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/76903853/2bba0978-7392-4983-bc17-b8d231fa564e)
 
-#### You can Play with all the features, such as Face Recognition, The image Resolution, etc...
 ### Enjoy!
