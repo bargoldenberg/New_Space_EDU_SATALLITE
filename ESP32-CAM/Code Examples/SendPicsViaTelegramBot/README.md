@@ -58,6 +58,6 @@ Go to your Telegram account and open a conversation with your bot. Send the foll
 `/flash` inverts the state of the LED flash. <br>
 `/photo` takes a new photo and sends it to your Telegram account. <br>
 
-![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/76903853/2bba0978-7392-4983-bc17-b8d231fa564e)
+![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/76903853/5b02500f-1cce-4ea9-a548-04948fc12d6d)
 
 ### Enjoy!
