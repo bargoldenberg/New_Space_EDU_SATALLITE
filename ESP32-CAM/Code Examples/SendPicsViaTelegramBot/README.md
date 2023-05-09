@@ -12,11 +12,25 @@ The `/photo` command takes a new photo and sends it to the user, while the `/fla
 `const char* ssid = "WIFI_NETWORK";` <br>
 `const char* password = "WIFI_PASS";` <br>
 
-
 Change ssid to your WIFI Network
 Change pass to your network password
 
+#### Genarate Telegram Bot
+
+Open Telegran and search for `BotFather`
+Type `/start` and send. Then, type `/newbot` and send. Choose a valid name for the bot.
+
+![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/76903853/feb4cac3-7e7a-42b9-81d0-040caa67ba44)
+
 `String BOTtoken = "XXXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";` // your Bot Token (Get from Botfather)
+
+Now, copy the TOKEN from the message above.
+
+#### Get Chat ID
+
+Open Telegram and search for `myidbot`
+Type `/getid` and send.
+copy the Code that you got, and paste below.
 
 `String CHAT_ID = "XXXXXXXXXX";` // Use @myidbot to find out the chat ID of an individual or a group
 
