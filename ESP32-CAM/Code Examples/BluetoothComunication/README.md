@@ -1,17 +1,8 @@
 # Bluetooth Comunication
 
-
 This code is an example of creating a bridge between Serial communication and Classical Bluetooth using the Serial Bluetooth Protocol (SPP) with authentication. It is specifically designed for the ESP32 chip, which supports Bluetooth functionality.
 
 The code utilizes the "BluetoothSerial" library, which provides the necessary functions to establish a Bluetooth connection and communicate with other devices. Before using the library, it checks if Bluetooth and SPP are enabled on the ESP32 chip.
-
-# Changes that Required:
-
-`code` <br>
-`code`
-
-Change ssid to your WIFI Network
-Change pass to your network password
 
 # How To RUN:
 
