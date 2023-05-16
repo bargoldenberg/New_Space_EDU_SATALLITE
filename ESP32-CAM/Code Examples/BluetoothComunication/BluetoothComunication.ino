@@ -1,6 +1,6 @@
 //This example code is in the Public Domain (or CC0 licensed, at your option.)
 //By Richard Li - 2020
-//
+// 
 //This example creates a bridge between Serial and Classical Bluetooth (SPP with authentication)
 //and also demonstrate that SerialBT have the same functionalities of a normal Serial
 
