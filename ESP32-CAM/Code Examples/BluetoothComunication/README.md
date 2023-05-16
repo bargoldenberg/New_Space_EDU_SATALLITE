@@ -4,6 +4,12 @@ This code is an example of creating a bridge between Serial communication and Cl
 
 The code utilizes the "BluetoothSerial" library, which provides the necessary functions to establish a Bluetooth connection and communicate with other devices. Before using the library, it checks if Bluetooth and SPP are enabled on the ESP32 chip.
 
+# Changes that Required:
+
+`SerialBT.begin("ESP32test");` <br>
+Change `ESP34test` to the name you want for the device.
+ 
+
 # How To RUN:
 
 #### Click on this button for compiling the code:  <br>
@@ -19,7 +25,7 @@ The code utilizes the "BluetoothSerial" library, which provides the necessary fu
 ![image](https://user-images.githubusercontent.com/76903853/236427674-db04422e-c951-467c-84fc-641df776c93b.png)
 
 #### Now, You should see this command on the Serial Monitor:
-![image](https://user-images.githubusercontent.com/76903853/236427793-0cb3f5e5-ee99-4b2d-a3fa-4b796b28abe3.png)
+![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/76903853/fec8cac7-db47-4359-bc67-59a1c1a6f749)
 
 #### Now you can controling the Led by Clicking on the Button that close to the red light.
 
