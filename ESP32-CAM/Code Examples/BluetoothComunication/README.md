@@ -27,6 +27,10 @@ Change `ESP34test` to the name you want for the device.
 #### Now, You should see this command on the Serial Monitor:
 ![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/76903853/fec8cac7-db47-4359-bc67-59a1c1a6f749)
 
-#### Now you can controling the Led by Clicking on the Button that close to the red light.
+To test the sketch, you will need a serial Bluetooth terminal application. If you have an Android device, you can use the free "Serial Bluetooth Terminal" app from the Google Play store. For Apple iOS users, you can try the "Bluetooth Terminal" app or "BlueTerm," both available on the Apple App Store.
+
+Once you have the terminal app installed, you can upload the sketch to your ESP32 board and pair your device with the ESP32. In the terminal app, look for a device named "ESP32test" (you can change this name by modifying line 17 of the code).
+
+Now, use the Bluetooth terminal app to enter some text. You should see the text you entered displayed on the Arduino IDE Serial Monitor. Additionally, you can type text into the Serial Monitor text box, and it should appear on your Bluetooth terminal app.
 
 
