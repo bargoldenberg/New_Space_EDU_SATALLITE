@@ -26,6 +26,8 @@ The Ground control will be able to connect to the satellite-end using LoRa radio
 
 
 ## Hardware
+![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/92790326/4afba33d-81dc-465f-a63e-c8b040a6faf2)
+
 
 1. NanoPai Neo Air.
 2. Cube Cell AB02S (GPS).
