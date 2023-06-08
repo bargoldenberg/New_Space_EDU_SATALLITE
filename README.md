@@ -9,10 +9,10 @@ On top on that, you will have some code examples to first start with (such as Im
 
 ## Guides 
 
-1. Nanopi Neo Air Setup Guide.
-2. ESP32-CAM Setup.
-3. Cube Cell AB02S (GPS) - Setup guide.
-4. OpenCV Lite Installation.
+1. [Nanopi Neo Air Setup Guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/readme.md).
+2. [ESP32-CAM Setup](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/ESP32-CAM/README.md).
+3. [Cube Cell AB02S (GPS) - Setup guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/SetUpCubeCell.md).
+4. [OpenCV Lite Installation](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/InstallOpenCV.md).
 
 ## Contribute
 
