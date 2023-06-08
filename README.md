@@ -47,7 +47,9 @@ Here is an links to all the hardware  / software required to the system:
 
 ## Contribute
 
-Explain Contributions here
+We encourage you to get involved and be part of our community. Whether you have ideas, suggestions, bug reports, or code contributions, your input is valuable to us.<br/>
+To contribute, feel free to reach out to us and discuss your ideas or how you can contribute. We are open to collaboration and excited to hear from you! <br/>
 
+Let's work together to make Space Education even better!
 
 
