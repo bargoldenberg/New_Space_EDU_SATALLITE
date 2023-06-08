@@ -2,6 +2,9 @@
 
 Welcome to the Nanopi Neo Air Setup Guide. This guide will help you to  get up and running a linux based system on this chip board.
 
+![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/92790326/3893ea67-6c82-4654-9f65-9d0e161a6a19)
+
+
 
 ## Step 1: Hardware installation
 
