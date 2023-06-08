@@ -31,12 +31,14 @@ The Ground control will be able to connect to the satellite-end using LoRa radio
 
 ## Technolegy
 
-1. [LoRa](https://en.wikipedia.org/wiki/LoRa).
-2. [OpenCv](https://opencv.org/).
+1. [LoRa](https://en.wikipedia.org/wiki/LoRa) - LoRa (Long Range) radio communication is a wireless technology that enables long-range, low-power communication between devices.
+2. [OpenCv](https://opencv.org/) -OpenCV (Open Source Computer Vision) is an open-source library and computer vision framework that provides a wide range of tools and functions for image and video processing.
 
 
 
 ## Guides 
+
+Here is an links to all the hardware  / software required to the system:
 
 1. [Nanopi Neo Air Setup Guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/readme.md).
 2. [ESP32-CAM Setup](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/ESP32-CAM/README.md).
