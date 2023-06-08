@@ -20,7 +20,7 @@ The system includes two ends:
 
 
 <br/>
-The Ground control will be able to connect to the satellite-end using LoRa radio communication to the cubecell, then it will use the switch to 'wake up' the NanoPai and oparate the required operation using the nanopai and the nanopai camera. On the satellite-end, both the cubecell and the switch will be linked to the power source, so the NanoPai default status will be off, and onlypowered up when it needs to.  
+The Ground control will be able to connect to the satellite-end using LoRa radio communication to the cubecell, then it will use the switch to 'wake up' the NanoPai and oparate the required operation using the nanopai and the nanopai camera. On the satellite-end, both the cubecell and the switch will be linked to the power source, so the NanoPai default status will be off, and onlypowered up when it needs to.  keep in mind that the cubecell and the nanopai both are connected with RX/TX (Receiver/ Transmitter).
 
 
 ## Hardware
