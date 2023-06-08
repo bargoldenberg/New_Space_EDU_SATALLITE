@@ -7,6 +7,10 @@ This is a guide for a New Space Educational Satellite, as part of Ariel Universi
 In the following sections, you will have a several guides and manuals to set up and install the hardware and softare we chose to use, all the hardware is available and easy to get, and the software is all from open sources.<br/>
 On top on that, you will have some code examples to first start with (such as Image caprture and compress). <br/> 
 
+## Hardware
+
+
+
 ## Guides 
 
 1. [Nanopi Neo Air Setup Guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/readme.md).
