@@ -77,7 +77,7 @@ Here is an links to all the hardware  / software required to the system:
     - `put /path/to/local/file.txt` where the path is the local file
     - [Nanopi scripts](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/tree/main/PythonScriptsNanoPI)
 
-- Make the serial listener (main.py) script run automaticlly on booting the Nanopi
+- Make the serial listener (main.py) script run automatically on booting the Nanopi
 
 - Try it out by sending a one of the following commands from the sender CubeCell 
     - `cpu` it will display the CPU information
