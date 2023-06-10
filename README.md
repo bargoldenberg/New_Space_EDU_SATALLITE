@@ -89,7 +89,7 @@ Here is an links to all the hardware  / software required to the system:
 
 ## How It Works
 
-![space-final-project](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/c5e14c86-611f-4024-b96d-bd57f3d93a19)
+![lora-cubecell](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/05234a92-aa53-402e-add0-fcb9e0f64bc7)
 
 The ground station will send a command to the remote cube cell, then it will activate the Nanopi, Once it successfully activated the cube cell will send the received command to the nanopi, then the nanopi will process the command and send a response back.
 
