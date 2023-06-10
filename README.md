@@ -24,6 +24,12 @@ The system includes two ends:
 <br/>
 The Ground control will be able to connect to the satellite-end using LoRa radio communication to the cubecell, then it will use the switch to 'wake up' the NanoPai and oparate the required operation using the nanopai and the nanopai camera. On the satellite-end, both the cubecell and the switch will be linked to the power source, so the NanoPai default status will be off, and onlypowered up when it needs to.  keep in mind that the cubecell and the nanopai both are connected with RX/TX (Receiver/ Transmitter).
 
+## How It Works
+
+![lora-cubecell](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/05234a92-aa53-402e-add0-fcb9e0f64bc7)
+
+The ground station will send a command to the remote cube cell, then it will activate the Nanopi, Once it successfully activated the cube cell will send the received command to the nanopi, then the nanopi will process the command and send a response back.
+
 
 ## Hardware
 ![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/92790326/4afba33d-81dc-465f-a63e-c8b040a6faf2)
@@ -86,12 +92,6 @@ Here is an links to all the hardware  / software required to the system:
     - `cpu` it will display the CPU information
     - `capture with coor` will capture an image and send back the stars coordinates 
     - `take pic` will capture an image
-
-## How It Works
-
-![lora-cubecell](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/05234a92-aa53-402e-add0-fcb9e0f64bc7)
-
-The ground station will send a command to the remote cube cell, then it will activate the Nanopi, Once it successfully activated the cube cell will send the received command to the nanopi, then the nanopi will process the command and send a response back.
 
 
 ## Contribute
