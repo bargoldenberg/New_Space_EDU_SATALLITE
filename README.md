@@ -98,25 +98,9 @@ Here is an links to all the hardware  / software required to the system:
 
 ## In Action 
 
-<a href="https://www.youtube.com/watch?v=Cn-0ReZ9dG0" target="_blank">See In Youtube </a> 
-
-
-
-
-
-
-
-
 https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/392dc8d4-56f8-41af-8db3-b542145bff9f
 
-
-
-
-
-
-
-
-
+<a href="https://www.youtube.com/watch?v=Cn-0ReZ9dG0" target="_blank">See In Youtube </a> 
 
 ## Contribute
 
