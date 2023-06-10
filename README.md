@@ -38,6 +38,7 @@ The ground station will send a command to the remote cube cell, then it will act
 1. NanoPai Neo Air.
 2. Cube Cell AB02S (GPS).
 3. ESP32-CAM.
+4. Mosfet 140c07.
 
 ## Technolegy
 
@@ -102,6 +103,15 @@ https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/392dc8d
 
 <a href="https://www.youtube.com/watch?v=Cn-0ReZ9dG0" target="_blank">See In Youtube </a> 
 
+
+## Where To Buy
+
+- <a href="https://nettigo.eu/products/heltec-cubecell-gps-6502-htcc-ab02s-lora-868-mhz-development-board-with-gps" target="_blank"> Cube Cell AB02S (GPS) </a>
+    
+- <a href="https://www.amazon.com/NanoPi-NEO-Air-Quad-core-Cortex-A7-Allwinner-Bluetooth/dp/B0B2K8QB3F" target="_blank">Nanopi Neo Air</a>
+    
+- <a href="https://www.ebay.com/itm/191947831394?hash=item2cb0fb7862:g:0ToAAOSwgD9cmED2&amdata=enc%3AAQAIAAAA4GJMdlHlRgLIC3wQI6xSN15sF%2BeL%2B9bMMsQBwor22tu%2BAN0EXxFKjZ4A57NqP%2FnkJ9SekudMgqAx3LurJpVjKiDesjIQeitXztpfsTVVbMJcUeBSywcaUwIfSd2ZoF4bApHXy%2B2N5MT0vFeVA5BcEm1uMdHP2adUugfwtVCsY%2FitzKYVGBJVDDpKMc7RuOFUC1Oif1uuWKzRNpJTEWOee%2BEixAnrCo3F%2BXdiEDiNhXapwg1dDMmXMlkbd%2B%2FoNgsUDKlwrfMvKkYDgFQI0n7F6iLnl1FLkOvDa1nlGoWtm0eG%7Ctkp%3ABk9SR6DMgeeUYg" target="_blank"> Mosfet 140c07 </a>
+ 
 ## Contribute
 
 We encourage you to get involved and be part of our community. Whether you have ideas, suggestions, bug reports, or code contributions, your input is valuable to us.<br/>
