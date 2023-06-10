@@ -96,6 +96,10 @@ Here is an links to all the hardware  / software required to the system:
     - `take pic` will capture an image
 
 
+## In Action 
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 ## Contribute
 
 We encourage you to get involved and be part of our community. Whether you have ideas, suggestions, bug reports, or code contributions, your input is valuable to us.<br/>
