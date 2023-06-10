@@ -51,7 +51,7 @@ Here is an links to all the hardware  / software required to the system:
 5. [Send & Recevie - Flow Example](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Send-Receive/readme.md).
 
 
-## Getting Stareted
+## Getting Started
 
 - First setup the Nanopi and install `python`, `opencv`, `numpy`.
     - [Nanopi Neo Air Setup Guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/readme.md).
