@@ -84,6 +84,13 @@ Here is an links to all the hardware  / software required to the system:
     - `capture with coor` will capture an image and send back the stars coordinates 
     - `take pic` will capture an image
 
+## How it works
+
+![space-final-project](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/c5e14c86-611f-4024-b96d-bd57f3d93a19)
+
+The ground station will send a command to the remote cube cell, then it will activate the Nanopi, Once it successfully activated the cube cell will send the received command to the nanopi, then the nanopi will process the command and send a response back.
+
+
 ## Contribute
 
 We encourage you to get involved and be part of our community. Whether you have ideas, suggestions, bug reports, or code contributions, your input is valuable to us.<br/>
