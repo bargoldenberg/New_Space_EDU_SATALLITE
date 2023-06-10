@@ -70,7 +70,7 @@ Here is an links to all the hardware  / software required to the system:
     - Connect the Switch .......
     - Finally connect the CubeCell to any power source using micro USB
 
-- For the CubeCell sender just connected to the PC using micro USB
+- For the CubeCell sender just connect it to the PC using micro USB
 
 - Now upload the scripts to the Nanopi using SFTP
     - `sftp username@hostname` where the hostname is the ip address
