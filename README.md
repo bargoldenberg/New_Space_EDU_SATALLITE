@@ -69,6 +69,9 @@ Here is an links to all the hardware  / software required to the system:
     - Connect TX to RX and vice versa between the CubeCell and Nanopi
     - Connect the Switch .......
     - Finally connect the CubeCell to any power source using micro USB
+    - You should have something like this:  
+    ![connceted-devices](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/a8045bdb-ba49-4662-b2c6-82b33f4de619)
+ 
 
 - For the CubeCell sender just connect it to the PC using micro USB
 
