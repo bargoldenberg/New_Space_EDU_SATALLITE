@@ -53,7 +53,7 @@ Here is an links to all the hardware  / software required to the system:
 
 ## Getting Stareted
 
-- First setup the nano pi and install python, opencv, numpy.
+- First setup the Nanopi and install python, opencv, numpy.
     - [Nanopi Neo Air Setup Guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/readme.md).
 
     - [OpenCV Lite Installation](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/InstallOpenCV.md).
@@ -62,7 +62,7 @@ Here is an links to all the hardware  / software required to the system:
     - [Cube Cell AB02S (GPS) - Setup guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/SetUpCubeCell.md).
     - [Send & Recevie - Flow Example](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Send-Receive/readme.md).
 
-- Wire the cube cell receiver to the nanopi as follow: 
+- Wire the Cube Cell receiver to the nanopi as follow: 
     - Use the RX2, TX2 on the CubeCell and UART2 on Nanopi
     - Connect TX to RX and vice versa between the CubeCell and Nanopi
     - Connect the Switch .......
