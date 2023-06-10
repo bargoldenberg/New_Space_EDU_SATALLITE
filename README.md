@@ -50,6 +50,38 @@ Here is an links to all the hardware  / software required to the system:
 4. [OpenCV Lite Installation](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/InstallOpenCV.md).
 5. [Send & Recevie - Flow Example](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Send-Receive/readme.md).
 
+
+## Getting Stareted
+
+- First setup the nano pi and install python, opencv, numpy.
+    - [Nanopi Neo Air Setup Guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/readme.md).
+
+    - [OpenCV Lite Installation](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/InstallOpenCV.md).
+
+- Setup Cubecell Sender/Receiver
+    - [Cube Cell AB02S (GPS) - Setup guide](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Nanopi-Neo-Air/SetUpCubeCell.md).
+    - [Send & Recevie - Flow Example](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/blob/main/Send-Receive/readme.md).
+
+- Wire the cube cell receiver to the nanopi as follow: 
+    - Use the RX2, TX2 on the CubeCell and UART2 on Nanopi
+    - Connect TX to RX and vice versa between the CubeCell and Nanopi
+    - Connect the Switch .......
+    - Finally connect the CubeCell to any power source using micro USB
+
+- For the CubeCell sender just connected to the PC using micro USB
+
+- Now upload the scripts to the Nanopi using SFTP
+    - `sftp username@hostname` where the hostname is the ip address
+    - `put /path/to/local/file.txt` where the path is the local file
+    - [Nanopi scripts](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/tree/main/PythonScriptsNanoPI)
+
+- Make the serial listener (main.py) script run automaticlly on booting the Nanopi
+
+- Try it out by sending a one of the following commands from the sender CubeCell 
+    - `cpu` it will display the CPU information
+    - `capture with coor` will capture an image and send back the stars coordinates 
+    - `take pic` will capture an image
+
 ## Contribute
 
 We encourage you to get involved and be part of our community. Whether you have ideas, suggestions, bug reports, or code contributions, your input is valuable to us.<br/>
