@@ -98,9 +98,12 @@ Here is an links to all the hardware  / software required to the system:
 
 ## In Action 
 
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/10331972/244884493-cae9fce3-ad3f-42a9-a444-4b1907f17d4c.mp4
+
+
 <video src="nanopi%20lora.mp4" controls title="
 "></video>
-
 <a href="https://www.youtube.com/watch?v=Cn-0ReZ9dG0" target="__blank">See In Youtube </a> 
 
 ## Contribute
