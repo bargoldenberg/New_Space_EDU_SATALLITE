@@ -79,7 +79,7 @@ Here is an links to all the hardware  / software required to the system:
 
 - Make the serial listener (main.py) script run automatically on booting the Nanopi
 
-- Try it out by sending a one of the following commands from the sender CubeCell 
+- Try it out by sending one of the following commands from the sender CubeCell 
     - `cpu` it will display the CPU information
     - `capture with coor` will capture an image and send back the stars coordinates 
     - `take pic` will capture an image
