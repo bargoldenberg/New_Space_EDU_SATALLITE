@@ -84,7 +84,7 @@ Here is an links to all the hardware  / software required to the system:
     - `capture with coor` will capture an image and send back the stars coordinates 
     - `take pic` will capture an image
 
-## How it works
+## How It Works
 
 ![space-final-project](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/10331972/c5e14c86-611f-4024-b96d-bd57f3d93a19)
 
