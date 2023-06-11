@@ -1,6 +1,9 @@
 # New Space Educational Satellite
 ![image](https://github.com/bargoldenberg/New_Space_EDU_SATALLITE/assets/92790326/b3bb687e-611c-4ff8-8985-c56462b83763)
 
+##
+- Hagai Hen 313414872
+
 
 ## Description
 
