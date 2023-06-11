@@ -3,6 +3,9 @@
 
 ## By
 - Hagai Hen 313414872
+- Bar Goldenberg 209894286
+- Sappir Bohbot 316416429
+- Tarik Husin 207154261
 
 
 ## Description
